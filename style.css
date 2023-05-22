@@ -1,0 +1,258 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+	font-family: 
+}
+
+body{
+	font-family: font-family: 'Open Sans', sans-serif;
+	background-image: url('C:/Users/pc/Desktop/project2/asset 21.jpeg');
+	background-size: cover;
+	background-size: 100% ;
+	font-family: 'Open Sans', sans-serif;
+}
+
+main{
+	min-height: 100vh;
+	display: flex;
+	
+}
+
+/* designing the two cols*/
+
+.left_section{
+	min-height: 85vh;
+	
+	width: 30%;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 50px;
+	margin-bottom: 60px;
+
+	background-color: rgba(255, 255, 255, 0.1);
+	display: flex;
+		flex-direction: column;
+	}
+
+	.intro{
+	background-color: ;
+	width: 90%;
+	height: 40%;
+	margin-top: 50px;
+	margin-left: 30px;
+	margin-right: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: column;
+	padding-bottom: 20px;
+}
+ img {
+	
+  border-radius: 50%;
+  height: 130px;
+  width: 130px;
+
+}
+
+.alex{
+color: white;
+	padding-bottom: 10px;
+}
+
+.web{
+	color: white;
+	font-weight: 10px;
+}
+
+.soshmeds{
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: row;
+	color: white;
+}
+
+ ul{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: row;
+	text-decoration: none;
+	height: 2px;
+	width: 2px;
+
+}
+
+ li{
+	list-style-type: none;
+	height: 2px;
+	width: 2px;
+	
+}
+
+.phonemail{
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: column;
+
+}
+
+.phone{
+	margin-bottom: 30px;
+	color: white;
+	/*font-weight: bold;*/
+}
+
+.mail{
+	color: white;
+		/*font-weight: bold;*/
+		padding-bottom: 20px;
+}
+
+.left_section button{
+	
+ 
+right: 50%;
+  background-color: rgba(255, 255, 255, 0.0);
+  color: white;
+  font-size: 16px;
+  padding: 6px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+margin-left: 140px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 100px;
+ border: 2px solid white; 
+
+padding-bottom: 10px;
+padding-top: 10px;
+padding-left: 30px;
+padding-right: 30px;
+
+}
+.left_section button {
+  transition-duration: 0.4s;
+}
+
+.left_section button:hover {
+  background-color: white; 
+  color:black;
+}
+
+
+
+
+
+
+	.right_section{
+	min-height: 85vh;
+	float: right;
+	width: 60%;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 10px;
+	margin-bottom: 60px;
+	margin-right: 40px;
+	display: flex;
+	
+	flex-direction: row;
+
+	}
+
+	.leftcontent{
+		width: 30vw;
+	height: 40vh;
+	display: flex;
+	flex-direction: column;
+	margin-top: 80px;
+	margin-left: 50px;
+	margin-right: 20px;
+	align-content: left;
+	
+	
+}
+
+.leftcontent h4{
+
+	color: grey;
+	font-weight: normal;
+
+}
+
+.leftcontent h1{
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+.leftcontent p{
+	padding-top: 30px;
+	text-align: left;
+	align-content: left;
+	padding-bottom: 30px;
+	color:#666666;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.man{
+		width: 30vw;
+	height: 40vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 69px;
+	margin-left: 50px;
+	
+	}
+	.man img{
+		height: 400px;
+		width: 400px;
+	border-radius: 1000px 0px 1000px 1000px;
+		padding-top: 0%;
+		align-items: 
+	}
+
+
+.nextdiv{
+	min-height: 85vh;
+	float: right;
+	width: 60%;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 10px;
+	margin-bottom: 60px;
+	margin-right: 40px;
+	display: flex;
+	background-color: black;
+
+
+
+
+
+
+
+
+
+
